@@ -1844,5 +1844,8 @@
       "size": "Regular",
       "colour": "Beige"
     }
+  ],
+  "users": [
+    { "id": "govind@gmail.com", "password": "govind", "name": "Govind" }
   ]
 }
