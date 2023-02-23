@@ -1847,5 +1847,6 @@
   ],
   "users": [
     { "id": "govind@gmail.com", "password": "govind", "name": "Govind" }
-  ]
+  ],
+  "cart": []
 }
