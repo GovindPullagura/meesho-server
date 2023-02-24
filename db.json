@@ -487,6 +487,7 @@
       "brand": "Roadster",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/12193826/2020/10/13/e5880ee7-80af-4405-ae9f-7760b22a34621602571369433-Roadster-Women-Tshirts-1601602571367968-1.jpg",
       "rating": 1,
+      "gender": "women",
       "category": "T-shirt",
       "description": "Printed Round Neck Pure Cotton T-shirt",
       "price": 296,
@@ -498,6 +499,7 @@
       "brand": "Nike",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15338610/2021/10/19/417cfca5-58e3-48ee-aa6a-d6013eb495321634646042615-DILLINGER-Women-Tshirts-7981634646042269-1.jpg",
       "rating": 2,
+      "gender": "women",
       "category": "T-shirt",
       "description": "DILLINGER Women Printed Cotton Pure Cotton T-shirt",
       "price": 475,
@@ -509,6 +511,7 @@
       "brand": "HRX",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10968502/2020/2/18/54c26fb8-d8c6-42b0-a3d6-eea009aaba161582020847616-Roadster-Women-Tshirts-2671582020846188-1.jpg",
       "rating": 3,
+      "gender": "women",
       "category": "T-shirt",
       "description": "Printed Boxy Fit T-shirt",
       "price": 799,
@@ -520,6 +523,7 @@
       "brand": "Lee",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17964866/2022/4/21/f41008f5-ca47-4912-923e-bf5f61289e9e1650514395490CottonT-shirt1.jpg",
       "rating": 4,
+      "gender": "women",
       "category": "T-shirt",
       "description": "H&M Cotton T-shirt",
       "price": 1199,
@@ -531,6 +535,7 @@
       "brand": "UCB",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2355195/2022/11/22/ace52485-b210-46f8-a6a5-749e1fb4003e1669097169250-Roadster-Women-White-Cotton-Pure-Cotton-T-shirt-759166909716-1.jpg",
       "rating": 5,
+      "gender": "women",
       "category": "T-shirt",
       "description": "Roadster Women Cotton Pure Cotton T-shirt",
       "price": 329,
@@ -542,6 +547,7 @@
       "brand": "Louis Philippe",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21315278/2023/1/23/a9018739-399c-4c40-b911-72e72aa21f071674457466977TheSouledStoreWomenBlueKungFuPandaPrintedCottonBoxyT-shirt1.jpg",
       "rating": 1,
+      "gender": "women",
       "category": "T-shirt",
       "description": "The Souled Store Printed Cotton Boxy T-shirt",
       "price": 629,
@@ -550,6 +556,7 @@
     },
     {
       "id": 7,
+      "gender": "women",
       "brand": "Nike",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18069010/2022/6/20/372fb2a1-725b-4a0c-b28b-a494c9f200e41655722963414-Levis-Women-Tshirts-4921655722963008-1.jpg",
       "rating": 2,
@@ -561,6 +568,7 @@
     },
     {
       "id": 8,
+      "gender": "women",
       "brand": "Roadster",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13601542/2021/4/28/92ac59d7-1c94-4fa9-8a84-bfaacc3c414e1619586566085TshirtsMetronautMenTshirtsRoadsterMenTshirtsRoadsterMenTopsR1.jpg",
       "rating": 3,
@@ -572,6 +580,7 @@
     },
     {
       "id": 9,
+      "gender": "women",
       "brand": "HRX",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13594592/2021/5/19/3f6343c7-9a66-4499-b842-a1b512f589ad1621406286695HRXByHrithikRoshanWomenTofuAOPSkinnyFitReversibleRapid-DryAn1.jpg",
       "rating": 4,
@@ -583,6 +592,7 @@
     },
     {
       "id": 10,
+      "gender": "women",
       "brand": "Lee",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21339438/2022/12/29/0abe7d62-ef93-4d47-ad5c-0befe676ac751672254412392StyliWomenWhiteRawEdgeT-shirt1.jpg",
       "rating": 5,
@@ -594,6 +604,7 @@
     },
     {
       "id": 11,
+      "gender": "women",
       "brand": "UCB",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13641766/2021/3/31/45ab1c93-b8d0-4083-95de-5062893713811617170125478-DILLINGER-Women-Blue-Printed-Round-Neck-T-shirt-879161717012-1.jpg",
       "rating": 1,
@@ -605,6 +616,7 @@
     },
     {
       "id": 12,
+      "gender": "women",
       "brand": "Louis Philippe",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21732166/2023/1/27/4fc8f72a-a25b-4ff7-b9c8-64002fb942a81674836605954Tshirts1.jpg",
       "rating": 2,
@@ -616,6 +628,7 @@
     },
     {
       "id": 13,
+      "gender": "women",
       "brand": "Nike",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11011988/2021/1/21/145fa8fd-b97d-4bd9-a018-a1284d0ae80c1611222705040-HRX-by-Hrithik-Roshan-Women-Blue--Lime-Green-Tie--Dye-Lifest-1.jpg",
       "rating": 3,
@@ -627,6 +640,7 @@
     },
     {
       "id": 14,
+      "gender": "women",
       "brand": "Roadster",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17413232/2022/3/17/c861897a-f6d5-40fc-8336-a007cce0bede1647511510301-Anubhutee-Women-Kurtis-6081647511509773-1.jpg",
       "rating": 4,
@@ -638,6 +652,7 @@
     },
     {
       "id": 15,
+      "gender": "women",
       "brand": "Roadster",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17413232/2022/3/17/c861897a-f6d5-40fc-8336-a007cce0bede1647511510301-Anubhutee-Women-Kurtis-6081647511509773-1.jpg",
       "rating": 5,
@@ -649,6 +664,7 @@
     },
     {
       "id": 16,
+      "gender": "women",
       "brand": "HRX",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16777048/2022/1/11/e7e458a3-f230-4d78-9f4b-b15ab7bd74f21641893640534Kurtis1.jpg",
       "rating": 1,
@@ -660,6 +676,7 @@
     },
     {
       "id": 17,
+      "gender": "women",
       "brand": "Lee",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/6/9/4822bc82-2016-4c23-b9f4-d717b65921061560027211091-1.jpg",
       "rating": 2,
@@ -671,6 +688,7 @@
     },
     {
       "id": 18,
+      "gender": "women",
       "brand": "Lee",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/6/9/4822bc82-2016-4c23-b9f4-d717b65921061560027211091-1.jpg",
       "rating": 3,
@@ -682,6 +700,7 @@
     },
     {
       "id": 19,
+      "gender": "women",
       "brand": "UCB",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15635870/2021/10/13/81e8290c-dd3e-4861-a842-acd5dec7f2e01634120807701-SWAGG-INDIA-Womens-Wear-Chikan-Embroidery-Polycotton-White-C-1.jpg",
       "rating": 4,
@@ -693,6 +712,7 @@
     },
     {
       "id": 20,
+      "gender": "women",
       "brand": "Louis Philippe",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19980840/2022/9/14/ef41aa3d-55ee-4fe1-82f2-f7565b67081f1663147454593SangriaWhitePureCottonEmbroiderdKurti1.jpg",
       "rating": 5,
@@ -704,6 +724,7 @@
     },
     {
       "id": 21,
+      "gender": "women",
       "brand": "Nike",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13172560/2021/3/20/c7c39e47-01fd-4f90-ae63-c74eeca08cb01616236932840-House-of-Pataudi-Women-Kurtis-9311616236931808-1.jpg",
       "rating": 1,
@@ -715,6 +736,7 @@
     },
     {
       "id": 22,
+      "gender": "women",
       "brand": "Roadster",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16287478/2022/12/23/270fd391-b956-43e5-bbf2-501f7709161b1671793401617JuniperPinkWhiteMandarinCollarPrintedTunic1.jpg",
       "rating": 2,
@@ -726,6 +748,7 @@
     },
     {
       "id": 23,
+      "gender": "women",
       "brand": "HRX",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17606372/2022/12/6/5b7bc6e1-bc01-4c94-b2c5-bf204356fe8d1670297847574RainRainbowWomenGreenOrangeEthnicPrintedSequinnedPureCottonK1.jpg",
       "rating": 3,
@@ -737,6 +760,7 @@
     },
     {
       "id": 24,
+      "gender": "women",
       "brand": "Lee",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13238794/2021/6/5/c44ab368-359b-4351-a4e2-38013be51e8b1622875534045-Anouk-Women-Tops-751622875533409-1.jpg",
       "rating": 4,
@@ -748,6 +772,7 @@
     },
     {
       "id": 25,
+      "gender": "women",
       "brand": "Lee",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/6/30/d57433aa-0c2a-4094-9176-97f0674afbe41625076276038-1.jpg",
       "rating": 5,
@@ -759,6 +784,7 @@
     },
     {
       "id": 26,
+      "gender": "women",
       "brand": "UCB",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16287600/2021/12/11/2f1cc56a-a660-4b9e-87d9-6e6d8a9c1ee51639219929708JuniperWhiteCottonDobbyEmbroideredA-LineTunic1.jpg",
       "rating": 1,
@@ -770,6 +796,7 @@
     },
     {
       "id": 27,
+      "gender": "women",
       "brand": "Louis Philippe",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/2/10/d264a750-7957-40c8-b516-44980e444ea31612958941536-1.jpg",
       "rating": 2,
@@ -781,6 +808,7 @@
     },
     {
       "id": 28,
+      "gender": "women",
       "brand": "Nike",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15071236/2021/8/9/3f7066d4-4b76-4774-9457-303e1868692a1628499657874MiteraWomenGreenEmbellished1.jpg",
       "rating": 3,
@@ -792,6 +820,7 @@
     },
     {
       "id": 29,
+      "gender": "women",
       "brand": "Roadster",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19253020/2022/7/29/b7f91a31-0810-4fe0-bde5-3f8ba1f5b7a21659081442776KALINIWhiteGold-TonedZariSaree1.jpg",
       "rating": 4,
@@ -803,6 +832,7 @@
     },
     {
       "id": 30,
+      "gender": "women",
       "brand": "HRX",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19584222/2022/12/30/74a0958b-5253-4a79-923d-d566968ff33f1672384001604-Rani-Saahiba-White--Purple-Bagh-Pure-Cotton-Bagh-Saree-36316-1.jpg",
       "rating": 5,
@@ -814,6 +844,7 @@
     },
     {
       "id": 31,
+      "gender": "women",
       "brand": "Lee",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14975358/2021/7/29/9e1484a0-92f8-4871-9b98-fc9f389406691627570339977KALINIWomenBlackPrinted1.jpg",
       "rating": 1,
@@ -825,6 +856,7 @@
     },
     {
       "id": 32,
+      "gender": "women",
       "brand": "Lee",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16311678/2021/12/15/460713ca-8a86-49de-a4c7-459e5493c9a91639544776150-all-about-you-Women-Sarees-8191639544775617-3.jpg",
       "rating": 2,
@@ -836,6 +868,7 @@
     },
     {
       "id": 33,
+      "gender": "women",
       "brand": "UCB",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19691578/2022/9/15/168c80ef-fff9-4b58-bd7c-2a347fb62bdb1663245887842DressesDIVYANKWomenDressesDIVYANKWomenLoungeShortsLeadingLad1.jpg",
       "rating": 3,
@@ -847,6 +880,7 @@
     },
     {
       "id": 34,
+      "gender": "women",
       "brand": "UCB",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16287682/2021/12/15/3827ff9f-e3ff-468f-a36f-85835f48267b1639567243017-Saree-Mall-Black-Linen-Ethnic-Woven-Design-Traditional-Wear--1.jpg",
       "rating": 4,
@@ -858,6 +892,7 @@
     },
     {
       "id": 35,
+      "gender": "women",
       "brand": "Louis Philippe",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16423342/2021/12/9/0221662d-d402-4af7-b2b7-b25ed2113c9c1639025362323KALINIWomenBlackPrinted1.jpg",
       "rating": 5,
@@ -869,6 +904,7 @@
     },
     {
       "id": 36,
+      "gender": "women",
       "brand": "Nike",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/5556553/2018/4/27/11524814232207--SALWAR-STUDIO-Women-Black-Cotton-Lycra-Saree-Blouse-for-Women-4721524814232029-1.jpg",
       "rating": 1,
@@ -880,6 +916,7 @@
     },
     {
       "id": 37,
+      "gender": "women",
       "brand": "Roadster",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17781868/2022/12/7/50da6077-e687-4f4d-aa65-96b6e5430f981670411335116SilkLandWhitePinkEthnicDesignZariPureSilkKanjeevaramSaree1.jpg",
       "rating": 2,
@@ -891,6 +928,7 @@
     },
     {
       "id": 38,
+      "gender": "women",
       "brand": "Lee",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20119554/2022/9/21/1788875b-7aa9-45e4-bbfb-26687fbd07cf1663779801556JinaxGreenGold-TonedWovenDesignZardoziPureSilkBanarasiSaree1.jpg",
       "rating": 3,
@@ -902,6 +940,7 @@
     },
     {
       "id": 39,
+      "gender": "women",
       "brand": "HRX",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19584208/2022/12/30/cace5dc1-527c-4681-805f-57b75ccc0e271672391608350-Rani-Saahiba-Grey--Orange-Saree-2731672391607500-1.jpg",
       "rating": 4,
@@ -913,6 +952,7 @@
     },
     {
       "id": 40,
+      "gender": "women",
       "brand": "UCB",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11165184/2020/1/13/7021b9f0-1111-4c3f-874a-24be2dd68ff71578914561894-Rajnandini-Beige-Cotton-Woven-Traditional-Saree-With-Tassel--1.jpg",
       "rating": 5,
