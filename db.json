@@ -1926,8 +1926,84 @@
     }
   ],
   "users": [
-    { "id": "govind@gmail.com", "password": "govind", "name": "Govind" }
+    { "id": "govind@gmail.com", "password": "govind", "name": "Govind" },
+    { "id": "vibhor@gmail.com", "password": "vibhor", "name": "Vibhor" },
+    { "id": "nandan@gmail.com", "password": "nandan", "name": "Nandan" },
+    { "id": "manju@gmail.com", "password": "manju", "name": "Manju" }
   ],
   "cart": [],
-  "orders": []
+  "orders": [
+    {
+      "id": 1,
+      "products": [
+        {
+          "id": 1,
+          "brand": "Nike",
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/12/12/1aab2a18-6774-4f83-b292-fe301755a3351576102551329-1.jpg",
+          "rating": 4,
+          "gender": "men",
+          "category": "T-shirt",
+          "description": "Huetrap Typography Print T-shirt",
+          "price": 296,
+          "size": "XL",
+          "colour": "Beige"
+        },
+        {
+          "id": 40,
+          "brand": "UCB",
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19182174/2022/12/3/f8628cd9-81e2-430c-a85e-95af6bd7af931670067558531-U-S-Polo-Assn-Men-Grey-Slim-Fit-Chinos-Trousers-301167006755-1.jpg",
+          "rating": 4,
+          "gender": "men",
+          "category": "Trouser",
+          "description": "U.S. Polo Assn. Men Denver Slim Fit Chinos",
+          "price": 2349,
+          "size": "L",
+          "colour": "Grey"
+        }
+      ],
+      "total": 2645
+    },
+    {
+      "id": 2,
+      "products": [
+        {
+          "id": 68,
+          "brand": "Nike",
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15071236/2021/8/9/3f7066d4-4b76-4774-9457-303e1868692a1628499657874MiteraWomenGreenEmbellished1.jpg",
+          "rating": 3,
+          "gender": "women",
+          "category": "Saree",
+          "description": "Mitera Leheriya Silk Blend Saree",
+          "price": 699,
+          "size": "Regular",
+          "colour": "Green"
+        },
+        {
+          "id": 69,
+          "brand": "Roadster",
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19253020/2022/7/29/b7f91a31-0810-4fe0-bde5-3f8ba1f5b7a21659081442776KALINIWhiteGold-TonedZariSaree1.jpg",
+          "rating": 4,
+          "gender": "women",
+          "category": "Saree",
+          "description": "KALINI Saree",
+          "price": 599,
+          "size": "Regular",
+          "colour": "White"
+        },
+        {
+          "id": 70,
+          "brand": "HRX",
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19584222/2022/12/30/74a0958b-5253-4a79-923d-d566968ff33f1672384001604-Rani-Saahiba-White--Purple-Bagh-Pure-Cotton-Bagh-Saree-36316-1.jpg",
+          "rating": 5,
+          "gender": "women",
+          "category": "Saree",
+          "description": "Rani Saahiba Bagh Pure Cotton Saree",
+          "price": 799,
+          "size": "Regular",
+          "colour": "Blue"
+        }
+      ],
+      "total": 2097
+    }
+  ]
 }
